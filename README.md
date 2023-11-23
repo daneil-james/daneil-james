@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel-james
 - 👀 I’m interested in hacking 
 - 🌱 I’m currently learning Linux and python 
-- 💞️ I’m looking to collaborate on real world projects 
+- 💞️ I’m looking to collaborate on real world hacking projects 
 - 📫 How to reach me ...
 
 <!---
